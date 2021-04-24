@@ -10,3 +10,8 @@ Now out work will continue locally
 2. Commited the change to local repo
 3. We want this change to be reflected in remote repository so we PUSHED local commits to remote repository using push origin button
 4. Observe it has beed added in your repository under GitHub.com
+
+How to save after adding some text in sublime
+On Mac cCommand + S
+On Windows Control + S
+Or Click on File --> Save
